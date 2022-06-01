@@ -24,6 +24,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |bodothebest| Marco | Bodini | Brennercom SpA | [AS20811](https://www.peeringdb.com/asn/20811) |
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
 |PgB79| Piero | Borello | Quirum | |
+|francescob0| Francesco | Bove | NovaConn | [AS203462](https://www.peeringdb.com/asn/203462)|
 |massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
 |[beEnry](https://t.me/beEnry)| Enrico | Caruso | Timenet srl | [AS51580, AS31611](https://www.timenet.it) |
 |[ilvesparossa](https://t.me/ilvesparossa)| Andrea | Castano | Supernap Italia | [AS203201](https://www.peeringdb.com/asn/203201) |
